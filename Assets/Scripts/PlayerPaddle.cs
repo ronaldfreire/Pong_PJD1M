@@ -18,6 +18,6 @@ public class PlayerPaddle : MonoBehaviour
         //Vector2.up = (0, 1)
         //directionInput = (0, 0)
         //O translate move o paddle na Position do Transform
-        //transform.Translate((0, 1) * (0, 1) * 5 * delta) - Significa mover o objeto: direção para cima, outro vetor, velocidade do movimento e 
+        //transform.Translate((0, 1) * (0, 1) * 5 * delta) - Significa mover o objeto: direção para cima, outro vetor, velocidade do movimento e tempo
     }
 }
