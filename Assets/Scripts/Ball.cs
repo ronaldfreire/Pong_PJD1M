@@ -32,8 +32,6 @@ public class Ball : MonoBehaviour
 
         direction.y = Random.Range(-0.5f, 0.5f); //Valor máximo para Y
         rb.linearVelocity = direction * ballSpeed;
-
-        
     }
         
 }
